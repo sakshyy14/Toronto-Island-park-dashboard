@@ -9,12 +9,11 @@ The objective of this project is to transform raw ticket transaction data into m
 
 Ferry operators experience varying passenger demand throughout the day and across different seasons. Without proper analytics it becomes difficult to:
 
-Identify peak travel hours
-Forecast passenger demand
-Compare ticket sales with actual passenger usage
-Measure seasonal utilization
-Optimize ferry operations
-
+-Identify peak travel hours
+-Forecast passenger demand
+-Compare ticket sales with actual passenger usage
+-Measure seasonal utilization
+-Optimize ferry operations
 This dashboard solves these problems by providing an interactive overview of sales and redemption behavior.
 
 3- Dashboard Preview
@@ -22,21 +21,21 @@ This dashboard solves these problems by providing an interactive overview of sal
 (https://github.com/sakshyy14/Toronto-Island-park-dashboard/blob/main/Snapshot%20of%20Toronto%20park%20dashboard.png)
 
 4-Dashboard Features
-KPI Cards
+-KPI Cards
 - Tickets Sold per Hour
 - Tickets Redeemed per Hour
 - Net Passenger Movement
 - Peak Demand Hour
 - Off-Season Utilization Index
   
-Visualizations
+-Visualizations
 -Hourly Demand Trend
 -Daily Demand Trend
 -Seasonal Sales Comparison
 -Sales vs Redemption Comparison
--4-Hour Rolling Average Trend
+-Hour Rolling Average Trend
 
-Key Insights
+-Key Insights
 -Peak passenger demand occurs around midday.
 -Ticket sales closely match ticket redemption, indicating high operational efficiency.
 -Summer months (July and August) experience the highest passenger traffic.
@@ -44,11 +43,11 @@ Key Insights
 -Rolling average highlights consistent demand patterns throughout the day.
 
 5-Tools Used
-Microsoft Power BI
-Power Query
-DAX
-Data Modeling
-Excel (Dataset Preparation)
+-Microsoft Power BI
+-Power Query
+-DAX
+-Data Modeling
+-Excel (Dataset Preparation)
 
 6-Skills Demonstrated
 -Data Cleaning
