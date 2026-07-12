@@ -1,12 +1,10 @@
 Toronto Island Ferry Analytics: Sales & Usage Insights
+
 1- Project Overview
-
-This Power BI dashboard analyzes ferry ticket sales and passenger redemption patterns for Toronto Island Ferry services. The dashboard helps identify travel demand, passenger movement, seasonal trends, and operational performance through interactive visualizations and KPIs.
-
-The objective of this project is to transform raw ticket transaction data into meaningful business insights that support better resource planning, ferry scheduling, and demand forecasting.
+-This Power BI dashboard analyzes ferry ticket sales and passenger redemption patterns for Toronto Island Ferry services. The dashboard helps identify travel demand, passenger movement, seasonal trends, and operational performance through interactive visualizations and KPIs.
+-The objective of this project is to transform raw ticket transaction data into meaningful business insights that support better resource planning, ferry scheduling, and demand forecasting.
 
 2- Business Problem
-
 Ferry operators experience varying passenger demand throughout the day and across different seasons. Without proper analytics it becomes difficult to:
 
 -Identify peak travel hours
