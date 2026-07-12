@@ -5,7 +5,7 @@ Toronto Island Ferry Analytics: Sales & Usage Insights
 -The objective of this project is to transform raw ticket transaction data into meaningful business insights that support better resource planning, ferry scheduling, and demand forecasting.
 
 2- Business Problem
-Ferry operators experience varying passenger demand throughout the day and across different seasons. Without proper analytics it becomes difficult to:
+-Ferry operators experience varying passenger demand throughout the day and across different seasons. Without proper analytics it becomes difficult to:
 
 -Identify peak travel hours
 -Forecast passenger demand
